@@ -40,3 +40,4 @@ merwan.inge@gmail.com:SobreCode/dbt_exercices.git
 git remote set-url origin merwan.inge@gmail.com:SobreCode/dbt_exercices.git
 git remote -v
 ssh -T merwan.inge@gmail.com
+cat .ssh/id_rsa
