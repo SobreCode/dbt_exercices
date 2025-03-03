@@ -1,0 +1,13 @@
+demo_dbt:
+  outputs:
+    dev:
+      account: EFESMYR-KV40150
+      database: DBT_EXERCICES
+      password: kf2Dc^9@A$8AoPkU
+      role: ACCOUNTADMIN
+      schema: PUBLIC
+      threads: 1
+      type: snowflake
+      user: SobreCode
+      warehouse: snowflake
+  target: dev
