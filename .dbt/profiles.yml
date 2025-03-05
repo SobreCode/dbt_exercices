@@ -9,5 +9,5 @@ demo_dbt:
       threads: 1
       type: snowflake
       user: SobreCode
-      warehouse: snowflake
+      warehouse: COMPUTE_WH
   target: dev
