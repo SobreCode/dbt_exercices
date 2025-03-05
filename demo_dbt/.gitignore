@@ -2,3 +2,9 @@
 target/
 dbt_packages/
 logs/
+
+# Ignorer les répertoires de cache
+.cache/
+
+# Ignorer les répertoires de configuration VSCode
+.vscode-server/
